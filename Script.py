@@ -7,6 +7,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 
     ABOUT_TXT = """<b> ⍟──────[ ʙᴏᴛ-ᴅᴇᴛΔɪʟꜱ ]──────⍟
 ✯ Mʏ Nᴀᴍᴇ: {}
+✯ Oᴡɴᴇʀ: 
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Syd_XyZ'>≛ ᴍ𝖗𓆩𝕾𝖄𝕯𓆪ꪾ</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://mrsydoo.blogspot.com/2023/05/you-cant-count-no-of-ads-ad-site.html'>Bʟᴏɢɢᴇʀ; TʜΞ Δᴅ SɪΓΞ 😊</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://t.me/+oej8cujHMFJhNmI9'>Pᴀᴄʜᴀ ᴍᴀʟᴀയാളം,Wɪᴛʜ ΞИGLISH🤕</a>
@@ -27,7 +28,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀηᴅs.</b>"""
 - ɪꜰ yᴏᴜ ᴡᴀɴᴛ ᴄʀᴇᴀᴛᴇ ᴀɴ ᴇxᴀᴄᴛ [ Wɪᴛʜ Yᴏᴜʀ Oᴡɴ Mᴏᴅɪꜰɪᴄᴀᴛɪᴏɴ ]ʙᴏᴛ ʟɪᴋᴇ ᴍᴇ, ᴍᴇꜱꜱᴀɢᴇ <a href=https://t.me/Syd_Xyz>𝕸𝖗 𝕤чᴅ 😇</a>. ᴏʀ ᴛᴏ Бᴜy ᴀ Bᴏᴛ, yᴏᴜ ᴄᴀɴ ᴀʟꜱᴏ ᴍѦᴋᴇ TʜΞ ʙᴏᴛ ꜰᴏʀ FЯΞΞΞ ( ꜰᴇᴡ ʟɪᴍɪᴛɪᴀᴛɪᴏɴ ᴀʜᴇᴀᴅ).                 
 - Nᴇᴠᴇʀ Sʜᴏᴡ Sʜy Tᴏ Mᴇꜱꜱᴀɢᴇ.
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href=''>ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href='https://syzshorted.blogspot.com/2023/04/okk-link-below.html#?o=ea9ded5e6702d13f4af24044e74db24a1adaead35787357c1b82ded2ecea5257a69ac609c493c4b4'>ʜᴇʀᴇ</a>
 
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/Syd_Xyz">≛ ᴍᖇ Sy∂ ≛</a>"""
